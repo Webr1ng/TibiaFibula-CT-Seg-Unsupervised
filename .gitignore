@@ -1,0 +1,18 @@
+# Data
+Data_new/
+Data_new_AfterSeg/
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
